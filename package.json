@@ -1,5 +1,5 @@
 {
-  "name": "Hayroo",
+  "name": "BookstOre",
   "version": "1.0.0",
   "description": "A E-commerce website.",
   "main": "app.js",
@@ -7,16 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce"
-  },
-  "author": "Hasan | https://hasan-py.github.io",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce/issues"
-  },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
